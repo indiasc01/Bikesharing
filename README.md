@@ -7,3 +7,5 @@ From the data collected and displayed, we can look at the "Trips by Weekday" tab
 
 Summary:
 We can conclude from this data that men are more likely to checkout bikes than women and users tend to check out bikes during the day with a peak during commute work days. 
+
+Link to Dashboard- https://public.tableau.com/app/profile/india.scott/viz/Citibike_16446802920720/CitibikeAnalysis?publish=yes
